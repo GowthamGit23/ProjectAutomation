@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="KEDW_suite">
+	<test name="LoginTestCases">
+		<classes>
+			<class name="test.LoginTest" />
+		<!--	<class name="test.HomeTest" /> -->
+		</classes>
+	</test>
+</suite>
